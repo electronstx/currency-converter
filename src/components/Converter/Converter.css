@@ -1,0 +1,18 @@
+.converter {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: var(--bg-secondary, #1a1a1a);
+}
+
+.converter h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: var(--text-primary, rgba(255, 255, 255, 0.87));
+}
+
+.conversion-result {
+    font-size: 24px;
+    margin: 15px 0;
+    color: var(--text-primary, rgba(255, 255, 255, 0.87));
+}
